@@ -1,2 +1,2 @@
-# Lomba-gelar-rasa
-Repository untuk lomba gelar rasa kelompok trusted
+# Analisis Sentimen
+Repository untuk proyek analisis sentimen
